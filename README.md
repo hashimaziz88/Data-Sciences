@@ -21,14 +21,14 @@ bootcamp-exploratory-data-analysis/
 
 ### Cloning the Repository:
 
-The [Project Repository](https://github.com/Umuzi-org/Hashim-Muhammad-648-bootcamp-exploratory-data-analysis-python).
+The [Project Repository](https://github.com/hashimaziz88/Data-Sciences).
 
 To get started go to the Project repository on Github and clone the Git repository to your local machine. This can be done by clicking the code button and copying the URL to clone.
 
  Open a terminal and run the following command:
 
 ```
-git clone https://github.com/Umuzi-org/Hashim-Muhammad-648-bootcamp-exploratory-data-analysis-python.git
+git clone https://github.com/hashimaziz88/Data-Sciences
 ```
 
 This command clones the Git repository, creating a local copy of the entire project along with its version history.
